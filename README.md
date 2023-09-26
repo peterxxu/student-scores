@@ -1,2 +1,2 @@
-# student-scores
-some data manipulation to handle grade distribution and weighted grade assignment
+# Student Scores Analysis Project
+Using pandas to clean and manipulate data: calculate and visualiza grade distribution as well as weighted grade assignment
